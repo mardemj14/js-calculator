@@ -74,6 +74,7 @@ body {
 .opt-active {
   background-color: #ffb5b5;
   color: white;
+  cursor: pointer;
 }
 
 .ent {
